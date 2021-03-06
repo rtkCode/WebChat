@@ -1,0 +1,2 @@
+FLASK_APP=chat.py
+FLASK_DEBUG=1
